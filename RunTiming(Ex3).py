@@ -18,4 +18,4 @@ def run_timing():
 
 
 run_timing()
-print("Terminating Printing...")
+print("Terminating Program...")
